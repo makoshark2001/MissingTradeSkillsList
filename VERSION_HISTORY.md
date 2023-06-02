@@ -2,7 +2,7 @@
 
 ### v1.14.03 (June 02, 2023)
 
-* Updated TOC and fixed errors for classic era. (HTMauney)
+* Updated TOC and fixed errors for classic era. (Makoshark2001)
 
 ### v1.13.54 (May 30, 2021)
 
