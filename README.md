@@ -1,4 +1,7 @@
 # MissingTradeSkillsList
+
+## Classic Era FIX by Makoshark to version 1.14.03 client.
+
 Addon for World Of Warcraft Classic Era v1.14
 Shows the missing recipes/skills for a tradeskill and where to get them  
 Addon only works **all** languages now! (MTSL Options menu still only shown in English only)  
