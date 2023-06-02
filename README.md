@@ -1,5 +1,5 @@
 # MissingTradeSkillsList
-Addon for World Of Warcraft Classic v1.13  
+Addon for World Of Warcraft Classic Era v1.14
 Shows the missing recipes/skills for a tradeskill and where to get them  
 Addon only works **all** languages now! (MTSL Options menu still only shown in English only)  
 
