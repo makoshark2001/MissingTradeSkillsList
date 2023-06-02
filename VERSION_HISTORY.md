@@ -1,5 +1,9 @@
 ## Version History
 
+### v1.14.03 (June 02, 2023)
+
+* Updated TOC and fixed errors for classic era. (HTMauney)
+
 ### v1.13.54 (May 30, 2021)
 
 * Updated skill, item & specialisation translations for all languages except for Korean, simplified Chinese and traditional Chinese to match live data
