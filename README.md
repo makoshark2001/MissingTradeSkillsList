@@ -7,7 +7,7 @@ Addon only works **all** languages now! (MTSL Options menu still only shown in E
 ### Author
 Thumbkin (Retail: EU-Burning Steppes, Classic: EU-Pyrewood Village)
 
-Classic Era FIX by HTMauney
+Classic Era FIX by Makoshark2001
 
 
 ### Screenshots
