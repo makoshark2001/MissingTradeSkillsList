@@ -1,6 +1,6 @@
 ﻿## Interface: 11403
 ## Title: Missing TradeSkills List
-## Author: Thumbkin (Classic Era Fix by HTMauney)
+## Author: Thumbkin (Classic Era Fix by Makoshark2001)
 ## Notes: Shows missing skills & recipes for a profession and where to get them.
 ## SavedVariables: MTSL_PLAYERS, MTSLUI_PLAYER
 ## Version: 1.14.03
