@@ -3,7 +3,7 @@
 ## Author: Thumbkin (Classic Era Fix by HTMauney)
 ## Notes: Shows missing skills & recipes for a profession and where to get them.
 ## SavedVariables: MTSL_PLAYERS, MTSLUI_PLAYER
-## Version: 1.13.7
+## Version: 1.14.03
 
 #
 # Load all global variables, saved variables & locale
