@@ -1,13 +1,13 @@
 # MissingTradeSkillsList
 
-Addon for World Of Warcraft Classic Era v1.14
+Addon for World Of Warcraft Classic v1.13
 Shows the missing recipes/skills for a tradeskill and where to get them  
 Addon only works **all** languages now! (MTSL Options menu still only shown in English only)  
 
 ### Author
 Thumbkin (Retail: EU-Burning Steppes, Classic: EU-Pyrewood Village)
 
-Classic Era FIX by HTMauney.
+Classic Era FIX by HTMauney
 
 
 ### Screenshots
@@ -45,8 +45,6 @@ Minimap button & Enhanced tooltip
 * Link items to a channel (Say, Guild, Party, Raid or "Auto") or add item to current chat message
 * Ability to drag each MTSL frame around
 
-### Latest version (v1.13.54)
+### Latest version (v1.14.03)
 
-* Updated skill, item & specialisation translations for all languages except for Korean, simplified Chinese and traditional Chinese to match live data
-
-Full version history is available in VERSION_HISTORY.md inside zip addon
+*Fix for Classic Era client.
